@@ -29,7 +29,7 @@
                     <span class="text_fs-16">Телефон для записи:</span>
                     <span class="text_fs-24 company_text_red">+7 (351) 277-81-02</span>
                     <br>
-                    <a class="text_fs-12">как проехать</a>
+                    <a href="#contacts_map" class="text_fs-12">как проехать</a>
                 </div>
             </div>
         </header>
@@ -128,23 +128,23 @@
                 <div class="choose_car_type">
                     <h2>Выберите свой автомобиль:</h2>
                     <div class="car_type_list">
-                        <div class="car_item inline_block active">
+                        <div car_type_id="1" class="car_item inline_block active">
                             <img src="img/car_pic_1.png">
                             <div class="car_type_name">Малолитражные авто</div>
                         </div>
-                        <div class="car_item inline_block">
+                        <div car_type_id="2" class="car_item inline_block">
                             <img src="img/car_pic_2.png">
                             <div class="car_type_name">Средний класс</div>
                         </div>
-                        <div class="car_item inline_block">
+                        <div car_type_id="3" class="car_item inline_block">
                             <img src="img/car_pic_3.png">
                             <div class="car_type_name">Бизнес-класс</div>
                         </div>
-                        <div class="car_item inline_block">
+                        <div car_type_id="4" class="car_item inline_block">
                             <img src="img/car_pic_4.png">
                             <div class="car_type_name">Кроссоверы</div>
                         </div>
-                        <div class="car_item inline_block">
+                        <div car_type_id="5" class="car_item inline_block">
                             <img src="img/car_pic_5.png">
                             <div class="car_type_name">Внедорожники, пикапы</div>
                         </div>
@@ -154,12 +154,12 @@
                     <h2>Выберите услугу:</h2>
                     <div class="service_list">
                         <ul class="list_style_custom">
-                            <li prive_value="200" time_value="40"><div class="inline_left">Бесконтактная мойка</div><div class="inline_right">от 200 рублей</div></li>
-                            <li prive_value="150" time_value="10"><div class="inline_left">Экспресс-мойка</div><div class="inline_right">от 150 рублей</div></li>
-                            <li prive_value="350" time_value="30" class="active"><div class="inline_left">Наномойка <span>Специальная цена для онлайн-записи</span></div><div class="inline_right">от 350 рублей</div></li>
-                            <li prive_value="130" time_value="20"><div class="inline_left">Пылесос салона</div><div class="inline_right">от 130 рублей</div></li>
-                            <li prive_value="130" time_value="20"><div class="inline_left">Влажная уборка</div><div class="inline_right">от 130 рублей</div></li>
-                            <li prive_value="700" time_value="50"><div class="inline_left">Комплексная мойка</div><div class="inline_right">от 700 рублей</div></li>
+                            <li service_id="1" prive_value="0" time_value="0"><div class="inline_left">Бесконтактная мойка</div><div class="service_price inline_right">от 100 рублей</div></li>
+                            <li service_id="2" prive_value="0" time_value="0"><div class="inline_left">Экспресс-мойка</div><div class="service_price inline_right">от 100 рублей</div></li>
+                            <li service_id="3" prive_value="0" time_value="0" class="active"><div class="inline_left">Наномойка <span>Специальная цена для онлайн-записи</span></div><div class="service_price inline_right">от 100 рублей</div></li>
+                            <li service_id="4" prive_value="0" time_value="0"><div class="inline_left">Пылесос салона</div><div class="service_price inline_right">от 100 рублей</div></li>
+                            <li service_id="5" prive_value="0" time_value="0"><div class="inline_left">Влажная уборка</div><div class="service_price inline_right">от 100 рублей</div></li>
+                            <li service_id="6" prive_value="0" time_value="0"><div class="inline_left">Комплексная мойка</div><div class="service_price inline_right">от 100 рублей</div></li>
                         </ul>
                     </div>
                 </div>
@@ -226,7 +226,7 @@
                 </div>
             </div>
         </section>
-        <section id="contacts_map">
+        <section id="contacts_map" name="contacts_map">
             <div class="wrapper">
                 <div class="map_contacts company_bg_blue_grad company_text_white">
                     <div class="description_text text_fs-16">
