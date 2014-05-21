@@ -431,8 +431,8 @@ footer .footer_item.inline_right{
     border-radius: 0;
     border: none;
     text-shadow: none;
-    background:url("../img/button_big_pattern.png") repeat-x;
+    background:url("../img/button_big_pattern_sprite.png") 0 0 repeat-x;
 }
 .big_btn:hover{
-    background:url("../img/button_big_pattern_hover.png") repeat-x;
+    background:url("../img/button_big_pattern_sprite.png") 0 -90px repeat-x;
 }

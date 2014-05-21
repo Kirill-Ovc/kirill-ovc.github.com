@@ -11,7 +11,7 @@ function map_initialize() {
 
     var address = new google.maps.LatLng(55.136540, 61.403266);
     //var address1 = new google.maps.LatLng(55.137569, 61.400345);
-    var icon1 = new google.maps.MarkerImage("../img/map_marker.png",
+    var icon1 = new google.maps.MarkerImage("img/map_marker.png",
         new google.maps.Size(30, 45),
         new google.maps.Point(0,0),
         new google.maps.Point(15, 45)
