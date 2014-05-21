@@ -1,0 +1,438 @@
+
+
+header{
+    width: 100%;
+    height: 65px;
+}
+header .wrapper{
+    position: relative;
+}
+header .logo{
+    position: absolute;
+    top: 18px;
+    z-index: 1;
+}
+header .contact{
+    position: absolute;
+    top: 40px;
+    right: 0px;
+    z-index: 1;
+    line-height: 1;
+}
+header .contact a{
+    color: #16509c;
+}
+
+section#top_banner{
+    width: 100%;
+    height: 690px;
+    margin: 0;
+}
+section#top_banner .bg_container{
+    position: absolute;
+    z-index: 0;
+    top: 0px;
+    left: -360px;
+    width: 1920px;
+    height: 690px;
+    background: url("../img/banner.png") no-repeat;
+}
+section#top_banner .section_container{
+    padding-top: 150px;
+    width: 100%;
+    height: 100%;
+    position: relative;
+    text-transform: uppercase;
+}
+section#top_banner .headline{
+    margin-top: 10px;
+    font-size: 54px;
+    font-weight: bold;
+    line-height: 1.2;
+    text-shadow: 3px 3px 1px #145ba0;
+}
+section#top_banner .button_container{
+    margin-top: 30px;
+}
+
+
+section#services{
+    margin-top: 60px;
+}
+section#services .section_container{
+    margin-top: 70px;
+}
+section#services .section_container .side_column{
+    width: 323px;
+    height: 548px;
+    position: relative;
+}
+section#services .section_container .side_column.inline_right{
+    width: 330px;
+}
+section#services .section_container .side_column p{
+    font-size: 16px;
+    font-weight: bold;
+    margin-top: 5px;
+    color: #222222;
+}
+section#services .section_container .form_column{
+    width: 540px;
+}
+section#services .section_container .form_container{
+    width: 546px;
+    height: 546px;
+    background: url("../img/form_round_bg.png") no-repeat;
+}
+section#services .form_container .appointment_form{
+    top: 60px;
+}
+section#services .form_container .appointment_form .form_submitted_layer_container h1{
+    padding-top: 40px;
+}
+section#services .form_container .appointment_form .form_submitted_layer_container .icon_close{
+    position: absolute;
+    width: 39px;
+    height: 39px;
+    top: -58px;
+    right: -38px;
+    background: url("../img/icon_close_big.png");
+}
+section#services .form_container .appointment_form p{
+    margin-top: 10px;
+}
+
+section#services .section_container .service_item{
+    width: 290px;
+    height: auto;
+    position: absolute;
+}
+section#services .section_container .service_item.item_1{top: 0; right: 0 }
+section#services .section_container .service_item.item_2{top: 200px; left: 0; width: auto; }
+section#services .section_container .service_item.item_3{bottom: 0;right: 0 }
+section#services .section_container .service_item.item_4{top: 0;left: 0;  }
+section#services .section_container .service_item.item_5{top: 200px; right: 0; width: auto; }
+section#services .section_container .service_item.item_6{bottom: 0;left: 0; }
+section#services .section_container .service_item.item_1,
+section#services .section_container .service_item.item_3{width: 260px; }
+
+
+section#price_calculator{
+    margin-top: 70px;
+}
+section#price_calculator .section_container{
+    margin-top: 55px;
+    height: 605px;
+    border: 2px solid #4a98e0;
+    text-align: left;
+    color: #124393;
+}
+section#price_calculator h2{
+    font-size: 24px;
+    font-weight: normal;
+    text-transform: uppercase;
+}
+section#price_calculator .choose_car_type{
+    margin-top: 40px;
+    margin-left: 26px;
+}
+section#price_calculator .car_type_list{
+    margin-top: 55px;
+}
+section#price_calculator .car_item{
+    width: 203px;
+    margin-left: 20px;
+    text-align: center;
+}
+section#price_calculator .car_item:hover{
+    cursor: pointer;
+    cursor: hand;
+}
+section#price_calculator .car_item:hover img{
+    -webkit-filter: drop-shadow(0px 0px 10px rgba(115, 189, 255, 1));
+}
+section#price_calculator .car_item .car_type_name{
+    margin-top: 20px;
+    background: #63b0f5;
+    width: 203px;
+    height: 35px;
+    line-height: 35px;
+    font-size: 16px;
+    font-weight: normal;
+    color: #ffffff;
+    border-radius: 3px;
+    position: relative;
+}
+section#price_calculator .car_item.active .car_type_name{
+    background: #1d578d;
+}
+section#price_calculator .car_item.active .car_type_name:before{
+    content: '';
+    position: absolute;
+    top: -8px;
+    left:90px;
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 0 8px 8px 8px;
+    border-color: transparent transparent #1d578d transparent;
+}
+section#price_calculator .car_item.active img{
+    -webkit-filter: drop-shadow(0px 0px 10px rgba(115, 189, 255, 1));
+}
+
+section#price_calculator .choose_service{
+    margin-top: 55px;
+    margin-left: 26px;
+}
+section#price_calculator .choose_service ul{
+    margin-top: 20px;
+    width: 555px;
+    font-size: 16px;
+}
+section#price_calculator .choose_service li{
+    height: 35px;
+    line-height: 35px;
+    padding: 0 0 0 35px;
+}
+section#price_calculator .choose_service ul.list_style_custom li{
+    background: url("../img/check_box_empty.png") no-repeat 5px center;
+}
+section#price_calculator .choose_service ul.list_style_custom li{
+    cursor: pointer;
+    cursor: hand;
+}
+section#price_calculator .choose_service ul.list_style_custom li.active{
+    background: url("../img/check_box_checked.png") no-repeat 5px center;
+}
+section#price_calculator .choose_service ul.list_style_custom li.active .inline_right{
+    color: #ff0000;
+}
+section#price_calculator .choose_service ul.list_style_custom li span{
+    font-size: 12px;
+    color: #ff0000;
+    line-height: 1;
+}
+
+section#price_calculator .online_apply{
+    margin-top: 55px;
+    margin-right: 26px;
+}
+
+section#price_calculator .output_price_container{
+    background: url("../img/form_with_drops_bg.png");
+    width: 556px;
+    height: 230px;
+    text-align: center;
+    color: #ffffff;
+    font-size: 24px;
+    position: relative;
+    margin-top: 10px;
+}
+section#price_calculator .output_price_container p{
+    width: 300px;
+    text-align: left;
+}
+section#price_calculator .output_price_container .wash_price,
+section#price_calculator .output_price_container .wash_time{
+    position: absolute;
+    overflow: hidden;
+    left: 10px
+}
+section#price_calculator .output_price_container .wash_price{
+    top: 25px;
+}
+section#price_calculator .output_price_container .wash_time{
+    padding-top: 88px;
+}
+section#price_calculator .output_price_container .wash_price p{
+    margin-top: 5px;
+}
+section#price_calculator .output_price_container .wash_time p{
+    margin-top: -10px;
+}
+section#price_calculator .output_price_container .wash_price input,
+section#price_calculator .output_price_container .wash_time input{
+    margin-right: 20px;
+}
+
+
+section#price_calculator .output_price_container input.price_result{
+    width: 220px;
+    height: 40px;
+    border: 1px solid #e1e1e1;
+    border-radius: 2px;
+    text-align: center;
+    color: #e11b22;
+    background: #ffffff;
+}
+section#price_calculator .output_price_container .btn{
+    position: absolute;
+    bottom: 20px;
+    width: 380px;
+    left: 50%;
+    margin-left: -190px;
+}
+
+
+
+section#feedback_and_photos{
+    margin-top: 70px;
+    margin-bottom: 0;
+}
+section#feedback_and_photos .decoration_container{
+    margin-top: 70px;
+}
+section#feedback_and_photos .top_decoration{
+    position: absolute;
+    z-index: 1;
+    top: -100px;
+    left: -360px;
+    width: 1920px;
+    height: 100px;
+    background: url("../img/top_border_decoration.png") no-repeat;
+}
+section#feedback_and_photos .section_container{
+    position: relative;
+    width: 100%;
+    height: 980px;
+}
+section#feedback_and_photos .feedback_container{
+    position: absolute;
+    top: 10px;
+}
+section#feedback_and_photos .feedback_item{
+    overflow: hidden;
+    margin-top: 20px;
+    text-align: left;
+}
+section#feedback_and_photos .feedback_item img{
+    padding-right: 30px;
+    padding-top: 15px;
+}
+section#feedback_and_photos .feedback_item .description_text p{
+    font-size: 16px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    line-height: 1.3;
+}
+section#feedback_and_photos .photos{
+    position: absolute;
+    top:  500px;
+    width: 100%;
+    z-index: 2;
+}
+section#feedback_and_photos .photos_container{
+    margin-top: 50px;
+}
+section#feedback_and_photos .photos:before,
+section#feedback_and_photos .photos:after{
+    content: ' ';
+    position: absolute;
+    width: 100%;
+    height: 104px;
+    background: url("../img/square_for_bg.png") repeat-x;
+    background-position: 49px;
+    bottom: 65px;
+    z-index: 1;
+}
+section#feedback_and_photos .photos:before{
+    right: 100%;
+    float: right;
+}
+section#feedback_and_photos .photos:after{
+    float: left;
+    left: 100%;
+}
+section#feedback_and_photos .map_title{
+    position: absolute;
+    width: 100%;
+    bottom: 50px;
+}
+section#feedback_and_photos .map_title{
+    position: absolute;
+    width: 100%;
+    bottom: 50px;
+}
+
+section#contacts_map{
+    margin: 0;
+    height: 455px;
+}
+section#contacts_map .wrapper{
+    height: 100%;
+    position: absolute;
+    left:0;
+    right:0;
+    margin:0 auto;
+}
+section#contacts_map .map_contacts{
+    position: absolute;
+    top: 90px;
+    right: 0px;
+    width: 376px;
+    height: 275px;
+    border-radius: 3px;
+    z-index: 10;
+    text-align: left;
+}
+section#contacts_map .map_contacts:before{
+    content: ' ';
+    position: absolute;
+    top: -50px;
+    right: 0;
+    width: 103px;
+    height: 104px;
+    background: url("../img/contacts_logo.png") no-repeat;
+}
+section#contacts_map .map_contacts .description_text{
+    margin-left: 20px;
+    margin-top: 20px;
+}
+section#contacts_map .map_contacts .description_text p{
+    margin-top: 15px;
+}
+section#contacts_map .map_contacts .btn{
+    width: 337px;
+    height: 57px;
+    margin-top: 30px;
+    margin-left: 20px;
+    box-shadow: none;
+}
+
+footer{
+    margin: 0;
+    height: 133px;
+    background: #378ad5;
+}
+footer .footer_item{
+    position: absolute;
+    bottom: 30px;
+    line-height: 1.2;
+}
+footer .footer_item .company_text_yellow{
+    font-weight: 600;
+}
+footer .footer_item.inline_block{
+    left: 500px;
+    text-shadow: 1px 2px 1px #1d578d;
+}
+footer .footer_item.inline_right{
+    right: 0px;
+    line-height: 1.5;
+}
+
+
+
+.big_btn{
+    width: 376px;
+    height: 90px;
+    line-height: 90px;
+    border-radius: 0;
+    border: none;
+    text-shadow: none;
+    background:url("../img/button_big_pattern.png") repeat-x;
+}
+.big_btn:hover{
+    background:url("../img/button_big_pattern_hover.png") repeat-x;
+}

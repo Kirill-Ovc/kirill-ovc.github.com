@@ -1,0 +1,351 @@
+
+body{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    line-height: 1.5;
+    color: #000;
+    padding: 0;
+    margin: 0;
+    height: 100%;
+}
+
+h1,h2,h3 { font-family: 'Open Sans', sans-serif;font-weight: 600;}
+
+h1 { font-size: 36px; margin-top: 0px; margin-bottom: 0px; text-transform:uppercase;}
+h2 { font-size: 24px; margin-top: 0px; margin-bottom: 0px;}
+h3 { font-size: 20px; margin-top: 0px; margin-bottom: 0px;}
+
+p {margin: 0; line-height: 1.2 }
+
+a{ color: #000; text-decoration:underline; }
+a:link	{ color: #000; text-decoration:underline; }
+a:visited	{ color:#000; text-decoration:underline; }
+a:active	{ color:#fff; text-decoration:underline; }
+a:hover	{ color: #fff; text-decoration:underline; cursor: pointer; cursor: hand; }
+a img { border: none; }
+
+
+.company_text_white{color: #fff;}
+.company_text_black{color: #222222;}
+.company_text_blue{color: #16509c;}
+.company_text_blue_dark{color: #124393;}
+.company_text_red{color: #e82d3e;}
+.company_text_yellow{color: #ffe72a;}
+
+.company_bg_blue_grad{
+    background-color: #4a98e0; /* fallback color if gradients are not supported */
+    background-image: -webkit-linear-gradient(top, #66b2f7, #2877bf); /* For Chrome and Safari */
+    background-image:    -moz-linear-gradient(top, #66b2f7, #2877bf); /* For old Fx (3.6 to 15) */
+    background-image:     -ms-linear-gradient(top, #66b2f7, #2877bf); /* For pre-releases of IE 10*/
+    background-image:      -o-linear-gradient(top, #66b2f7, #2877bf); /* For old Opera (11.1 to 12.0) */
+    -ms-filter: "progid:DXImageTransform.Microsoft.Gradient(startColorStr='#66b2f7', endColorStr='#2877bf', GradientType=0)"; /*IE8+*/
+    background-image:         linear-gradient(to bottom, #66b2f7, #2877bf); /* Standard syntax; must be last */
+}
+
+.company_text_green{color: #569704;}
+.company_text_green2{color: #1f8d09;}
+.company_text_dark_green{color: #115703;}
+.company_bg_dark{background: #115703; color: #ffffff;}
+.company_bg_green{background: #62af03; color: #ffffff;}
+.company_bg_red{background: #d30707; color: #ffffff;}
+.company_bg_green_grad{background:#62af03 linear-gradient(to bottom, #a0d92f, #56b719);}
+.company_bg_green_rad_grad{
+    background: #62af03;
+    background: radial-gradient(circle at center, #79ce0f 35%, #62af03 70%);
+    background: -moz-radial-gradient(center, circle cover, #79ce0f 35%, #62af03 70%); /* FF3.6+ */
+    background: -webkit-radial-gradient(center, circle cover, #79ce0f 35%, #62af03 70%); /* Chrome10+,Safari5.1+ */
+    background: -o-radial-gradient(center, circle cover, #79ce0f 35%, #62af03 70%); /* Opera 12+ */
+    background: -ms-radial-gradient(center, circle cover, #79ce0f 35%, #62af03 70%); /* IE10+ */}
+.company_bg_grey{background: #e8e8e8;}
+.company_bg_grey_grad{background: #e8e8e8 linear-gradient(to bottom, #dfdfdf, #c5c6c7);}
+
+.inline_block{display: inline-block;}
+.inline_left{display: inline-block;float: left;}
+.inline_right{display: inline-block;float: right;}
+
+.text_center{text-align: center;}
+.text_right{text-align: right;}
+.text_left{text-align: left;}
+
+.text_fs-12{ font-size: 12px}
+.text_fs-15{ font-size: 15px}
+.text_fs-16{ font-size: 16px}
+.text_fs-18{ font-size: 18px}
+.text_fs-19{ font-size: 19px}
+.text_fs-24{ font-size: 24px}
+.text_fs-32{ font-size: 32px}
+
+.text_bold{font-weight: bold;}
+.uppercase{text-transform:uppercase;}
+.v_aligned {
+    display: inline-block;
+    vertical-align: middle;
+    line-height: 1.2;
+}
+
+.caption{margin-top: 25px; margin-bottom: 30px;}
+
+div.page-container {
+    position: relative;
+    background: #FFFFFF;
+    padding: 0;
+    margin: 0;
+    height: 100%;
+    min-height: 1000px;
+    min-width: 1000px;
+}
+
+div.page-wrapper{
+    margin: 0 auto;
+    width: 1200px;
+}
+div.wrapper{
+    margin: 0 auto;
+    width: 1200px;
+    position: relative;
+    height: 100%;
+}
+
+div.section_container{
+    vertical-align: middle;
+}
+
+header{
+    height: 150px;
+}
+
+section{
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+footer{
+    margin-top: 85px;
+    height: 60px;
+}
+footer .logo{
+    background: url("../img/logo_leadcraft.png");
+    width: 205px;
+    height: 20px;
+    margin: 20px;
+}
+footer .copyright_text{
+    margin: 20px;
+}
+
+
+ul.list_style_custom
+{
+    line-height: 1.5;
+    list-style-type: none;
+    padding: 0px;
+    margin: 0px;
+    font-size: 16px;
+    font-weight: 500;
+}
+ul.list_style_custom li
+{
+    background-repeat: no-repeat;
+    background-position: 0px 0px;
+    padding-left: 50px;
+    padding-bottom: 14px;
+}
+ul.list_style_custom.list_style_check_white li{
+}
+ul.list_style_custom.list_style_check_green li{
+}
+ul.list_style_custom.list_style_item_arrow li{
+}
+ul.list_style_custom.list_style_item_box li{
+}
+
+.btn{
+   width: 378px;
+   height: 57px;
+   border-radius: 5px;
+   border: none;
+   font-size: 24px;
+   font-weight: bold;
+   color: #124393;
+   text-shadow: -2px -1px 1px #fffe00;
+   text-align: center;
+   line-height: 57px;
+   text-transform:uppercase;
+   background-color: #fbdf00;
+   background:url("../img/button_pattern.png") repeat-x;
+   box-shadow: 0px 4px 1px #0a3281;
+}
+.btn:hover{
+    background-color: #ffcf2a;
+    background:url("../img/button_pattern_hover.png") repeat-x;
+    cursor: pointer;
+    cursor: hand;
+}
+.btn:focus {outline:0;}
+
+
+
+.appointment_form{
+    position: relative;
+    margin: 0 auto;
+    width: 376px;
+}
+.appointment_form .form_content{
+    position: relative;
+}
+.appointment_form .form_decoration{
+    position: absolute;
+    float: left;
+    width: 90px;
+    height: 138px;
+    background: url("../img/form_decoration.png") no-repeat;
+    top: -54px;
+    left: -50px;
+    z-index: 4;
+}
+.appointment_form.form_decorated .form_content:before{
+    content: ' ';
+    position: absolute;
+    float: left;
+    width: 90px;
+    height: 138px;
+    background: url("../img/form_decoration.png") no-repeat;
+    top: -55px;
+    left: -50px;
+    z-index: 4;
+}
+.appointment_form h1{
+    text-transform: none;
+    margin-bottom: 0;
+    line-height: 1.2;
+    text-transform: uppercase;
+    font-size: 36px;
+    font-weight: bold;
+    color: #ffe929;
+    text-shadow: 1px 1px 1px #145ba0;
+}
+.appointment_form p {
+    margin: 2px 0 5px;
+    font-size: 16px;
+    line-height: 1.3;
+    font-weight: normal;
+    color: #ffffff;
+}
+.appointment_form .input_page_form{
+    font-size: 16px;
+    text-align: left;
+    width: 100%;
+    height: 50px;
+    line-height: 25px;
+    border: 2px solid #0a3281;
+    border-radius: 3px;
+    margin-top: 20px;
+    padding: 0 0 0 15px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+.appointment_form .input_page_form:focus {outline:0;}
+.appointment_form .btn{
+    margin-top: 20px;
+    width: 100%;
+}
+.appointment_form .privacy_link{
+    margin-top: 15px;
+    text-align: center;
+}
+.appointment_form .privacy_link a{
+    color: #ffffff;
+    font-size: 12px;
+}
+.appointment_form .privacy_link a:hover{
+    color: #ffe929;
+}
+
+.appointment_form .form_submitted_layer_container{
+    display: none;
+    top: 0px;
+    position: absolute;
+    z-index: 10;
+    width: 377px;
+    height: 387px;
+}
+
+.appointment_form .form_submitted_layer_container .layer_content{
+    z-index: 3;
+    position: relative;
+    text-align: center;
+    padding-top: 100px;
+}
+.appointment_form .form_submitted_layer_container h1{
+    margin: inherit;
+    line-height: 1.2;
+}
+.appointment_form .form_submitted_layer_container .layer_content .headline{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.appointment_form .form_submitted_layer_container .layer_content .description_text{
+    margin-top: 20px;
+}
+.h_line{
+    margin: 0 auto;
+    width: 100%;
+    height: 0px;
+    border-top: 1px solid #3a8310;
+    border-bottom: 1px solid #95e01e;
+}
+.appointment_form .h_line{
+    width: 360px;
+}
+div.icon_close{
+    position: absolute;
+    width: 22px;
+    height: 22px;
+    top: 10px;
+    right: 10px;
+    background: url("../img/icon_close.png");
+}
+div.icon_close:hover{
+    cursor: pointer; cursor: hand;
+}
+form .error{
+    border: 1px solid #ff0000 !important;
+}
+
+
+#popup_modal_bg_layer {
+    top: 0;
+    position: fixed;
+    z-index: 100;
+    width: 100%;
+    height: 100%;
+    background: #1d578d;
+    opacity: 0.85;
+    display: none;
+}
+#popup_modal_form{
+    position: fixed;
+    top: 100px;
+    left: 50%;
+    margin-left: -400px;
+    z-index: 110;
+    background: url("../img/form_modal_bg.png");
+    width: 795px;
+    height: 531px;
+    display: none;
+}
+#popup_modal_form .appointment_form{
+    top: 20px;
+}
+#popup_modal_form .appointment_form .form_submitted_layer_container h1{
+    padding-top: 40px;
+}
+#popup_modal_form .appointment_form p{
+    margin-top: 10px;
+    margin-left: -20px;
+    margin-right: -20px;
+}

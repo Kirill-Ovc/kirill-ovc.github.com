@@ -1,0 +1,327 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Автомойка Чисто&Быстро</title>
+    <meta name="description" content="Автомойка Чисто&Быстро">
+    <meta name="keywords" content="Челябинск, Автомойка, Чисто&Быстро, европейская, наномойка, мойка">
+	<link rel="shortcut icon" href="favicon.png" type="image/png">
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,600,700&subset=latin,cyrillic-ext' rel='stylesheet' type='text/css'>
+    <link href="css/common.css" rel="stylesheet" type="text/css" />
+    <link href="css/main.css" rel="stylesheet" type="text/css" />
+    <link href="css/styles.css" rel="stylesheet" type="text/css" />
+    <script type="text/javascript" src="js/jquery-1.11.0.min.js"></script>
+    <script type="text/javascript" src="js/script.js"></script>
+    <script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script>
+    <!--[if IE]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+</head>
+<body>
+    <div class="page-container">
+        <header>
+            <div class="wrapper">
+                <div class="inline_left logo">
+                    <img src="img/logo.png">
+                </div>
+                <div class="inline_right contact company_text_blue text_right">
+                    <img src="img/icon_phone.png">
+                    <span class="text_fs-16">Телефон для записи:</span>
+                    <span class="text_fs-24 company_text_red">+7 (351) 277-81-02</span>
+                    <br>
+                    <a class="text_fs-12">как проехать</a>
+                </div>
+            </div>
+        </header>
+        <section id="top_banner">
+            <div class="wrapper">
+                <div class="bg_container">
+                </div>
+                <div class="section_container">
+                    <div class="inline_left headline">
+                        <span class="company_text_white">Европейская наномойка</span><br>
+                        <span class="company_text_yellow">по цене обычной</span>
+                    </div>
+                    <div class="inline_right button_container">
+                        <input class="btn big_btn open_modal_form" type="button" value="Записаться на мойку" onclick="yaCounter25024256.reachGoal('APPLY_BUTTON_1'); return true;">
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section id="services">
+            <div class="wrapper text_center">
+                <h1 class="company_text_blue_dark">Автомойка Чисто&Быстро – новый уровень авточистоты</h1>
+                <div class="section_container">
+                    <div class="inline_left side_column">
+                        <div class="service_item inline_right item_1">
+                            <img src="img/services_item_1.png">
+                            <p>Турбосушка автомобиля</p>
+                        </div>
+                        <div class="service_item inline_left item_2">
+                            <img src="img/services_item_2.png">
+                            <p>Уникальные технологии <br> чистки</p>
+                        </div>
+                        <div class="service_item inline_right item_3">
+                            <img src="img/services_item_3.png">
+                            <p>Система привелегий <br>для постоянных клиентов</p>
+                        </div>
+                    </div>
+                    <div class="inline_block form_column">
+                        <div class="form_container">
+                            <div class="appointment_form">
+                                <div class="form_content">
+                                    <div class="description_text text_center">
+                                        <h1>Запишитесь<br>на мойку</h1>
+                                        <p>
+                                            И получите Европейскую нано-мойку по цене<br>
+                                            обычной бесконтактной мойки
+                                        </p>
+                                    </div>
+                                    <div class="form_inputs_container">
+                                        <form method="post" action="/include/order.php">
+                                            <input type="hidden" name="form" value="Заявка">
+                                            <input type="text" name="name" class="input_page_form" placeholder="Ваше имя">
+                                            <input type="text" name="phone" class="input_page_form" placeholder="Ваш телефон">
+                                            <input type="submit" value="Записаться на мойку" class="btn form_submit" onclick="yaCounter25024256.reachGoal('APPLY_FORM_1'); return true;">
+                                            <div class="privacy_link"><a href="#" onclick="openPrivacyWindow();return false;">Политика конфиденциальности</a></div>
+                                        </form>
+                                    </div>
+                                </div>
+                                <div class="form_submitted_layer_container">
+                                    <div class="icon_close"></div>
+                                    <div class="layer_content">
+                                        <h1>Ваша заявка<br>
+                                            принята</h1>
+                                        <div class="description_text">
+                                            <p>В ближайшее время с Вами<br>
+                                                свяжется менеджер<br>
+                                                и уточнит удобное для Вас время</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="inline_right side_column">
+                        <div class="service_item inline_left item_4">
+                            <img src="img/services_item_4.png">
+                            <p>Администратор лично проверяет<br>
+                                качество каждой мойки</p>
+                        </div>
+                        <div class="service_item inline_right item_5">
+                            <img src="img/services_item_5.png">
+                            <p>Зона ожидания<br>
+                                со свежим кофе и wi-fi</p>
+                        </div>
+                        <div class="service_item inline_left item_6">
+                            <img src="img/services_item_6.png">
+                            <p>Самый широкий комплекс<br>
+                                автомоечных услуг</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section id="price_calculator" class="text_center">
+            <h1 class="company_text_blue_dark">Цены и онлайн-запись на мойку</h1>
+            <div class="wrapper section_container">
+                <div class="choose_car_type">
+                    <h2>Выберите свой автомобиль:</h2>
+                    <div class="car_type_list">
+                        <div class="car_item inline_block active">
+                            <img src="img/car_pic_1.png">
+                            <div class="car_type_name">Малолитражные авто</div>
+                        </div>
+                        <div class="car_item inline_block">
+                            <img src="img/car_pic_2.png">
+                            <div class="car_type_name">Средний класс</div>
+                        </div>
+                        <div class="car_item inline_block">
+                            <img src="img/car_pic_3.png">
+                            <div class="car_type_name">Бизнес-класс</div>
+                        </div>
+                        <div class="car_item inline_block">
+                            <img src="img/car_pic_4.png">
+                            <div class="car_type_name">Кроссоверы</div>
+                        </div>
+                        <div class="car_item inline_block">
+                            <img src="img/car_pic_5.png">
+                            <div class="car_type_name">Внедорожники, пикапы</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="choose_service inline_left">
+                    <h2>Выберите услугу:</h2>
+                    <div class="service_list">
+                        <ul class="list_style_custom">
+                            <li prive_value="200" time_value="40"><div class="inline_left">Бесконтактная мойка</div><div class="inline_right">от 200 рублей</div></li>
+                            <li prive_value="150" time_value="10"><div class="inline_left">Экспресс-мойка</div><div class="inline_right">от 150 рублей</div></li>
+                            <li prive_value="350" time_value="30" class="active"><div class="inline_left">Наномойка <span>Специальная цена для онлайн-записи</span></div><div class="inline_right">от 350 рублей</div></li>
+                            <li prive_value="130" time_value="20"><div class="inline_left">Пылесос салона</div><div class="inline_right">от 130 рублей</div></li>
+                            <li prive_value="130" time_value="20"><div class="inline_left">Влажная уборка</div><div class="inline_right">от 130 рублей</div></li>
+                            <li prive_value="700" time_value="50"><div class="inline_left">Комплексная мойка</div><div class="inline_right">от 700 рублей</div></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="online_apply inline_right">
+                    <h2>Онлайн-запись:</h2>
+                    <div class="output_price_container">
+                        <div class="wash_price">
+                            <p class="inline_left">Общая стоимость мойки:</p>
+                            <input type="text" name="wash_result_price" id="wash_result_price" class="price_result inline_right" placeholder="0">
+                        </div>
+                        <div class="wash_time">
+                            <p class="inline_left">Примерное время<br>ожидания:</p>
+                            <input type="text" name="wash_result_time" id="wash_result_time" class="price_result inline_right" placeholder="0">
+                        </div>
+                        <input class="btn open_modal_form" type="button" value="Записаться на мойку" onclick="yaCounter25024256.reachGoal('APPLY_BUTTON_2'); return true;">
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section id="feedback_and_photos" class="text_center">
+            <h1 class="company_text_blue_dark">Отзывы</h1>
+            <div class="wrapper decoration_container">
+                <div class="top_decoration"></div>
+            </div>
+            <div class="section_container company_bg_blue_grad">
+                <div class="wrapper text_center">
+                    <div class="feedback_container">
+                        <div class="feedback_item">
+                            <img src="img/content/client_photo_1.png" class="inline_left">
+                            <div class="description_text inline_left">
+                                <p class="company_text_yellow client_name">Елена Прекрасная</p>
+                                <p class="company_text_white">
+                                    Хвалебный отзыв. Интеграл от функции, имеющий конечный разрыв развивает разрыв функции, в итоге приходим к <br>
+                                    логическому противоречию. Поэтому система координат искажает возрастающий интеграл от функции, обращающейся <br>
+                                    в бесконечность в изолированной точке, в итоге приходим к логическому противоречию. График функции многих <br>
+                                    переменных основан на опыте. Аксиома, как следует из вышесказанного, изящно стабилизирует критерий сходимости <br>
+                                    Коши, откуда следует доказываемое равенство. Начало координат, в первом приближении, отображает анормальный <br>
+                                    минимум, что несомненно приведет нас к истине. Интегрирование по частям, общеизвестно, непредсказуемо.</p>
+                            </div>
+                        </div>
+                        <div class="feedback_item">
+                            <img src="img/content/client_photo_2.png" class="inline_left">
+                            <div class="description_text inline_left">
+                                <p class="company_text_yellow client_name">Иван Желамский</p>
+                                <p class="company_text_white">
+                                    Хвалебный отзыв. Интеграл от функции, имеющий конечный разрыв развивает разрыв функции, в итоге приходим к <br>
+                                    логическому противоречию. Поэтому система координат искажает возрастающий интеграл от функции, обращающейся <br>
+                                    в бесконечность в изолированной точке, в итоге приходим к логическому противоречию. График функции многих <br>
+                                    переменных основан на опыте. Аксиома, как следует из вышесказанного, изящно стабилизирует критерий сходимости <br>
+                                    Коши, откуда следует доказываемое равенство. Начало координат, в первом приближении, отображает анормальный <br>
+                                    минимум, что несомненно приведет нас к истине. Интегрирование по частям, общеизвестно, непредсказуемо.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="photos">
+                        <h1 class="company_text_white">фотографии</h1>
+                        <div class="photos_container">
+                            <img src="img/content/service_photo_1.png" class="inline_left">
+                            <img src="img/content/service_photo_2.png" class="inline_block">
+                            <img src="img/content/service_photo_3.png" class="inline_right">
+                        </div>
+                    </div>
+                    <h1 class="company_text_white map_title">Как нас найти</h1>
+                </div>
+            </div>
+        </section>
+        <section id="contacts_map">
+            <div class="wrapper">
+                <div class="map_contacts company_bg_blue_grad company_text_white">
+                    <div class="description_text text_fs-16">
+                        <span class="text_fs-24 uppercase">Наш адрес:</span>
+                        <p>г. Челябинска, ул. Доватора 1В<br>
+                            Проезд по указателям</p>
+                        <p>Телефон для записи и справок:<br>
+                            <span class="text_fs-24">(351) 277-81-02</span></p>
+                    </div>
+                    <input class="btn open_modal_form" type="button" value="Записаться на мойку" onclick="yaCounter25024256.reachGoal('APPLY_BUTTON_3'); return true;">
+                </div>
+            </div>
+            <div id="mymap">
+                <div id="map_canvas" style="width:100%; height: 455px"></div>
+            </div>
+        </section>
+        <footer>
+            <div class="section_container wrapper">
+                <div class="footer_item inline_left text_left text_fs-16 company_text_white">
+                    Чтобы воспользоваться предложением,<br>
+                    при записи по телефону, назовите<br>
+                    оператору кодовую фразу: <span class="uppercase company_text_yellow">«онлайн-скидка»</span>
+                </div>
+                <div class="footer_item inline_block text_left company_text_yellow text_fs-24">
+                    +7 (351) 277-81-02
+                </div>
+                <div class="footer_item inline_right text_right company_text_white">
+                    <img src="img/logo_leadcraft.png"><br>
+                    <span class="uppercase text_fs-12">© Copyright 2014 ООО «Компания»</span>
+                </div>
+            </div>
+        </footer>
+    </div>
+
+    <div id="popup_modal_bg_layer"></div>
+    <div id="popup_modal_form" class="form_container">
+        <div class="icon_close"></div>
+        <div class="appointment_form">
+            <div class="form_content">
+                <div class="description_text text_center">
+                    <h1>Запишитесь<br>на мойку</h1>
+                    <p>
+                        Заполните форму, и наш оператор свяжется с Вами,<br>
+                        чтобы подобрать удобное время для записи
+                    </p>
+                </div>
+                <div class="form_inputs_container">
+                    <form method="post" action="/include/order.php">
+                        <input type="hidden" name="form" value="Заявка">
+                        <input type="text" name="name" class="input_page_form" placeholder="Ваше имя">
+                        <input type="text" name="phone" class="input_page_form" placeholder="Ваш телефон">
+                        <input type="text" name="comment" class="input_page_form" placeholder="Удобное время мойки (необязательно)">
+                        <input type="submit" value="Записаться на мойку" class="btn form_submit" onclick="yaCounter25024256.reachGoal('APPLY_FORM_MODAL'); return true;">
+                        <div class="privacy_link"><a href="#" onclick="openPrivacyWindow();return false;">Политика конфиденциальности</a></div>
+                    </form>
+                </div>
+            </div>
+            <div class="form_submitted_layer_container">
+                <div class="layer_content">
+                    <h1>СПАСИБО!</h1>
+                    <div class="description_text">
+                        <p>Мы перезвоним Вам в течение 10 минут</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Yandex.Metrika counter -->
+    <script type="text/javascript">
+        (function (d, w, c) {
+            (w[c] = w[c] || []).push(function() {
+                try {
+                    w.yaCounter25024256 = new Ya.Metrika({id:25024256,
+                        webvisor:true,
+                        clickmap:true,
+                        trackLinks:true,
+                        accurateTrackBounce:true});
+                } catch(e) { }
+            });
+
+            var n = d.getElementsByTagName("script")[0],
+                    s = d.createElement("script"),
+                    f = function () { n.parentNode.insertBefore(s, n); };
+            s.type = "text/javascript";
+            s.async = true;
+            s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js";
+
+            if (w.opera == "[object Opera]") {
+                d.addEventListener("DOMContentLoaded", f, false);
+            } else { f(); }
+        })(document, window, "yandex_metrika_callbacks");
+    </script>
+    <noscript><div><img src="//mc.yandex.ru/watch/25024256" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+    <!-- /Yandex.Metrika counter -->
+
+</body>
+</html>
