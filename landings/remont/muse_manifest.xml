@@ -1,7 +1,7 @@
-<manifest alg="2" build="2015.1.0.342" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="babievtr.bget.ru" resolutions="1x" timestamp="1456988259342">
+<manifest alg="2" build="2015.1.0.342" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="babievtr.bget.ru" resolutions="1x" timestamp="1456989265633">
   <folder name="css">
     <file name="site_global.css" crc="131700929"/>
-    <file name="index.css" crc="4207111947" ref="index"/>
+    <file name="index.css" crc="74320562" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="409338010" ref="index"/>
@@ -155,5 +155,5 @@
     <file name="email19 (1).png" crc="162441301" seo="true" ref="index"/>
     <file name="pin56.png" crc="414534513" seo="true" ref="index"/>
   </folder>
-  <file name="index.html" crc="360137646" seo="true" mt="1456988138437" redirect="true"/>
+  <file name="index.html" crc="505772581" seo="true" mt="1456989245919" redirect="true"/>
 </manifest>
