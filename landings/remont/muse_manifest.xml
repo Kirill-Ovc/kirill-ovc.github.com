@@ -1,7 +1,7 @@
-<manifest alg="2" build="2015.1.0.342" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="babievtr.bget.ru" resolutions="1x" timestamp="1457028533163">
+<manifest alg="2" build="2015.1.0.342" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="babievtr.bget.ru" resolutions="1x" timestamp="1457029200279">
   <folder name="css">
     <file name="site_global.css" crc="131700929"/>
-    <file name="index.css" crc="4170663563" ref="index"/>
+    <file name="index.css" crc="3885379756" ref="index"/>
     <file name="master_______-a.css" crc="3859363202" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -178,5 +178,5 @@
     <file name="сергей _m.jpg" crc="245750728" ref="index"/>
     <file name="паша _m.jpg" crc="28263559" ref="index"/>
   </folder>
-  <file name="index.html" crc="476761338" seo="true" mt="1457028513485" redirect="true"/>
+  <file name="index.html" crc="3876790170" seo="true" mt="1457029179102" redirect="true"/>
 </manifest>
