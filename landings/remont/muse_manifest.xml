@@ -1,0 +1,159 @@
+<manifest alg="2" build="2015.1.0.342" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="babievtr.bget.ru" resolutions="1x" timestamp="1456986860604">
+  <folder name="css">
+    <file name="site_global.css" crc="131700929"/>
+    <file name="index.css" crc="215707550" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="409338010" ref="index"/>
+    <file name="museutils.js" crc="4190794036" ref="index"/>
+    <file name="whatinput.js" crc="84559013" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3792042506" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="jquery.watch.js" crc="349565855" ref="index"/>
+    <file name="webpro.js" crc="488283310" ref="index"/>
+    <file name="form_check.php" crc="430210585" ref="index"/>
+    <file name="form_throttle.php" crc="282343929" ref="index"/>
+    <file name="form_process.php" crc="339897355" ref="index"/>
+    <file name="form-u2361.php" crc="447007471" ref="index"/>
+    <file name="form-u2062.php" crc="196935121" ref="index"/>
+    <file name="musewpslideshow.js" crc="248860441" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="3898476799" ref="index"/>
+    <file name="touchswipe.js" crc="4191887251" ref="index"/>
+    <file name="form-u917.php" crc="4056108352" ref="index"/>
+    <file name="form-u1737.php" crc="93988315" ref="index"/>
+    <file name="form-u1755.php" crc="219594690" ref="index"/>
+    <file name="form-u1719.php" crc="3867565430" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="276325137" ref="index"/>
+    <file name="bvglight.jpg" crc="4006606578" ref="index"/>
+    <file name="circle.png" crc="4075224770" seo="true" ref="index"/>
+    <file name="logo.png" crc="354963169" seo="true" ref="index"/>
+    <file name="lenta.png" crc="3852947714" seo="true" ref="index"/>
+    <file name="tt1.png" crc="53100659" seo="true" ref="index"/>
+    <file name="107.png" crc="20221863" seo="true" ref="index"/>
+    <file name="232.png" crc="424765170" seo="true" ref="index"/>
+    <file name="tt4.png" crc="3936248279" seo="true" ref="index"/>
+    <file name="u2362-57.png" crc="4044162475" ref="index"/>
+    <file name="u2362-57-r.png" crc="3888691085" ref="index"/>
+    <file name="u2362-57-m.png" crc="356835240" ref="index"/>
+    <file name="u2362-57-fs.png" crc="4039952051" ref="index"/>
+    <file name="u2041-grad.png" crc="4242472449" ref="index"/>
+    <file name="u2068-57.png" crc="373687398" ref="index"/>
+    <file name="u2068-57-r.png" crc="240812451" ref="index"/>
+    <file name="u2068-57-m.png" crc="3887311660" ref="index"/>
+    <file name="u2068-57-fs.png" crc="93135827" ref="index"/>
+    <file name="auricular6.png" crc="3969686365" seo="true" ref="index"/>
+    <file name="1_квартиры.jpg" crc="350212236" ref="index"/>
+    <file name="2_котеджи.jpg" crc="182590011" ref="index"/>
+    <file name="3_офисы.jpg" crc="3884777154" ref="index"/>
+    <file name="4_таунхаусы.jpg" crc="3975079573" ref="index"/>
+    <file name="5_магазины.jpg" crc="3912717925" ref="index"/>
+    <file name="6_торговые_комплексы.jpg" crc="3941118430" ref="index"/>
+    <file name="verification24.png" crc="4169395158" seo="true" ref="index"/>
+    <file name="separ.png" crc="4208023732" seo="true" ref="index"/>
+    <file name="verification242.png" crc="4169395158" seo="true" ref="index"/>
+    <file name="geometry91.png" crc="81903572" seo="true" ref="index"/>
+    <file name="clock125.png" crc="3928442275" seo="true" ref="index"/>
+    <file name="ruble.png" crc="3778942740" seo="true" ref="index"/>
+    <file name="1-u2558-fr.jpg" crc="423169521" ref="index"/>
+    <file name="2-u2553-fr.jpg" crc="3780700282" ref="index"/>
+    <file name="3-u2555-fr.jpg" crc="234227703" ref="index"/>
+    <file name="4-u2562-fr.jpg" crc="259167454" ref="index"/>
+    <file name="5-u2560-fr.jpg" crc="349461968" ref="index"/>
+    <file name="1.jpg" crc="4207123801" ref="index"/>
+    <file name="2.jpg" crc="274812767" ref="index"/>
+    <file name="3.jpg" crc="155371262" ref="index"/>
+    <file name="4.jpg" crc="318526111" ref="index"/>
+    <file name="5.jpg" crc="4281596512" ref="index"/>
+    <file name="6-u2581-fr.jpg" crc="310383120" ref="index"/>
+    <file name="6.jpg" crc="4241373439" ref="index"/>
+    <file name="1-u2624-fr.jpg" crc="3973183416" ref="index"/>
+    <file name="2-u2627-fr.jpg" crc="3796712744" ref="index"/>
+    <file name="3-u2625-fr.jpg" crc="46475263" ref="index"/>
+    <file name="4-u2629-fr.jpg" crc="3951664211" ref="index"/>
+    <file name="52.jpg" crc="57171916" ref="index"/>
+    <file name="12.jpg" crc="4002023593" ref="index"/>
+    <file name="22.jpg" crc="3866794991" ref="index"/>
+    <file name="32.jpg" crc="4135276116" ref="index"/>
+    <file name="42.jpg" crc="4194843446" ref="index"/>
+    <file name="62.jpg" crc="3835616667" ref="index"/>
+    <file name="6-u2672-fr.jpg" crc="3828687814" ref="index"/>
+    <file name="63.jpg" crc="3939009415" ref="index"/>
+    <file name="1-u2465-fr.jpg" crc="4141895380" ref="index"/>
+    <file name="2-u2461-fr.jpg" crc="4127355460" ref="index"/>
+    <file name="3-u2459-fr.jpg" crc="508588810" ref="index"/>
+    <file name="4-u2463-fr.jpg" crc="233834030" ref="index"/>
+    <file name="5-u2457-fr.jpg" crc="491980146" ref="index"/>
+    <file name="13.jpg" crc="9576612" ref="index"/>
+    <file name="23.jpg" crc="4088976233" ref="index"/>
+    <file name="33.jpg" crc="3805856527" ref="index"/>
+    <file name="43.jpg" crc="4275245824" ref="index"/>
+    <file name="53.jpg" crc="271668550" ref="index"/>
+    <file name="6-u2479-fr.jpg" crc="298413056" ref="index"/>
+    <file name="64.jpg" crc="328268698" ref="index"/>
+    <file name="seplil.png" crc="4077255009" seo="true" ref="index"/>
+    <file name="ot1-ieu1645-fr.png" crc="3772351355" ref="index"/>
+    <file name="ot1.jpg" crc="470995963" ref="index"/>
+    <file name="ot2-ieu1651-fr.png" crc="4187681740" ref="index"/>
+    <file name="ot2.jpg" crc="428451081" ref="index"/>
+    <file name="ot3-ieu1652-fr.png" crc="462635606" ref="index"/>
+    <file name="ot3.jpg" crc="4173404113" ref="index"/>
+    <file name="mzku7pov9-y.jpg" crc="4240514098" ref="index"/>
+    <file name="bgform.jpg" crc="3813972155" ref="index"/>
+    <file name="u928-57.png" crc="4044162475" ref="index"/>
+    <file name="u928-57-r.png" crc="3888691085" ref="index"/>
+    <file name="u928-57-m.png" crc="356835240" ref="index"/>
+    <file name="u928-57-fs.png" crc="4039952051" ref="index"/>
+    <file name="girl.jpg" crc="371157100" seo="true" ref="index"/>
+    <file name="punkt.png" crc="4073087259" seo="true" ref="index"/>
+    <file name="1ic.png" crc="4202604364" seo="true" ref="index"/>
+    <file name="2ic.png" crc="4217738961" seo="true" ref="index"/>
+    <file name="3ic.png" crc="465553514" seo="true" ref="index"/>
+    <file name="4ic.png" crc="223347175" seo="true" ref="index"/>
+    <file name="ic5.png" crc="3834858920" seo="true" ref="index"/>
+    <file name="6ic.png" crc="3818047748" seo="true" ref="index"/>
+    <file name="2w.png" crc="89094293" ref="index"/>
+    <file name="3w.png" crc="4191981985" ref="index"/>
+    <file name="4w.png" crc="3979045782" ref="index"/>
+    <file name="5w.png" crc="486788377" ref="index"/>
+    <file name="6w.png" crc="289173956" ref="index"/>
+    <file name="1w.png" crc="4165086443" ref="index"/>
+    <file name="bb12.jpg" crc="378407076" ref="index"/>
+    <file name="u1744-57.png" crc="4007136097" ref="index"/>
+    <file name="u1744-57-r.png" crc="368098655" ref="index"/>
+    <file name="u1744-57-m.png" crc="4066137458" ref="index"/>
+    <file name="u1744-57-fs.png" crc="4076902197" ref="index"/>
+    <file name="u1767-57.png" crc="4007136097" ref="index"/>
+    <file name="u1767-57-r.png" crc="368098655" ref="index"/>
+    <file name="u1767-57-m.png" crc="4066137458" ref="index"/>
+    <file name="u1767-57-fs.png" crc="4076902197" ref="index"/>
+    <file name="u1725-57.png" crc="4007136097" ref="index"/>
+    <file name="u1725-57-r.png" crc="368098655" ref="index"/>
+    <file name="u1725-57-m.png" crc="4066137458" ref="index"/>
+    <file name="u1725-57-fs.png" crc="4076902197" ref="index"/>
+    <file name="u2856.png" crc="189229637" ref="index"/>
+    <file name="u2859.png" crc="189229637" ref="index"/>
+    <file name="u2862.png" crc="189229637" ref="index"/>
+    <file name="1эк.jpg" crc="38781539" ref="index"/>
+    <file name="2ст.jpg" crc="165067333" ref="index"/>
+    <file name="3эл.jpg" crc="63217011" ref="index"/>
+    <file name="bgv.jpg" crc="196951547" ref="index"/>
+    <file name="compl.png" crc="4073956499" seo="true" ref="index"/>
+    <file name="команда_1_василий-u4784-fr.jpg" crc="3899468447" ref="index"/>
+    <file name="команда_2_владимир-u4893-fr.jpg" crc="4141318599" ref="index"/>
+    <file name="команда_3_дмитрий-u4899-fr.jpg" crc="13038088" ref="index"/>
+    <file name="команда_4_алексей-u4905-fr.jpg" crc="4138359177" ref="index"/>
+    <file name="команда_5_марина-u4911-fr.jpg" crc="182707295" ref="index"/>
+    <file name="команда_6_александр-u4917-fr.jpg" crc="4019919138" ref="index"/>
+    <file name="команда_1_василий.jpg" crc="261960222" ref="index"/>
+    <file name="команда_2_владимир.jpg" crc="3827259509" ref="index"/>
+    <file name="команда_3_дмитрий.jpg" crc="57230160" ref="index"/>
+    <file name="команда_4_алексей.jpg" crc="504364492" ref="index"/>
+    <file name="команда_5_марина.jpg" crc="105119258" ref="index"/>
+    <file name="команда_6_александр.jpg" crc="3781232141" ref="index"/>
+    <file name="email19 (1).png" crc="162441301" seo="true" ref="index"/>
+    <file name="pin56.png" crc="414534513" seo="true" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4088695043" seo="true" mt="1456986629811" redirect="true"/>
+</manifest>
