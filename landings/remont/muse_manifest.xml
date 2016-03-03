@@ -1,7 +1,7 @@
-<manifest alg="2" build="2015.1.0.342" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="babievtr.bget.ru" resolutions="1x" timestamp="1457003683619">
+<manifest alg="2" build="2015.1.0.342" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="babievtr.bget.ru" resolutions="1x" timestamp="1457028533163">
   <folder name="css">
     <file name="site_global.css" crc="131700929"/>
-    <file name="index.css" crc="402696393" ref="index"/>
+    <file name="index.css" crc="4170663563" ref="index"/>
     <file name="master_______-a.css" crc="3859363202" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -15,12 +15,12 @@
     <file name="form_check.php" crc="430210585" ref="index"/>
     <file name="form_throttle.php" crc="282343929" ref="index"/>
     <file name="form_process.php" crc="339897355" ref="index"/>
-    <file name="form-u2361.php" crc="447007471" ref="index"/>
+    <file name="form-u2361.php" crc="314399483" ref="index"/>
     <file name="form-u2062.php" crc="196935121" ref="index"/>
     <file name="musewpslideshow.js" crc="248860441" ref="index"/>
     <file name="jquery.museoverlay.js" crc="3898476799" ref="index"/>
     <file name="touchswipe.js" crc="4191887251" ref="index"/>
-    <file name="form-u917.php" crc="4056108352" ref="index"/>
+    <file name="form-u917.php" crc="323777084" ref="index"/>
     <file name="form-u1737.php" crc="93988315" ref="index"/>
     <file name="form-u1755.php" crc="219594690" ref="index"/>
     <file name="form-u1719.php" crc="3867565430" ref="index"/>
@@ -63,7 +63,6 @@
     <file name="3.jpg" crc="486240250" ref="index"/>
     <file name="4.jpg" crc="389367450" ref="index"/>
     <file name="5.jpg" crc="453165203" ref="index"/>
-    <file name="6-u2581-fr.jpg" crc="310383120" ref="index"/>
     <file name="6.jpg" crc="274698065" ref="index"/>
     <file name="1-u2624-fr.jpg" crc="3973183416" ref="index"/>
     <file name="2-u2627-fr.jpg" crc="3796712744" ref="index"/>
@@ -175,6 +174,9 @@
     <file name="45.jpg" crc="4275245824" ref="index"/>
     <file name="55.jpg" crc="271668550" ref="index"/>
     <file name="66.jpg" crc="328268698" ref="index"/>
+    <file name="63-u6293-fr.jpg" crc="255160753" ref="index"/>
+    <file name="сергей _m.jpg" crc="245750728" ref="index"/>
+    <file name="паша _m.jpg" crc="28263559" ref="index"/>
   </folder>
-  <file name="index.html" crc="4052510187" seo="true" mt="1457003315339" redirect="true"/>
+  <file name="index.html" crc="476761338" seo="true" mt="1457028513485" redirect="true"/>
 </manifest>
