@@ -1,7 +1,7 @@
-<manifest alg="2" build="2015.1.0.342" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="babievtr.bget.ru" resolutions="1x" timestamp="1456990832630">
+<manifest alg="2" build="2015.1.0.342" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="babievtr.bget.ru" resolutions="1x" timestamp="1457000092403">
   <folder name="css">
     <file name="site_global.css" crc="131700929"/>
-    <file name="index.css" crc="4063675447" ref="index"/>
+    <file name="index.css" crc="3925526968" ref="index"/>
     <file name="master_______-a.css" crc="3859363202" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -31,10 +31,6 @@
     <file name="circle.png" crc="4075224770" seo="true" ref="index"/>
     <file name="logo.png" crc="354963169" seo="true" ref="index"/>
     <file name="lenta.png" crc="3852947714" seo="true" ref="index"/>
-    <file name="tt1.png" crc="53100659" seo="true" ref="index"/>
-    <file name="107.png" crc="20221863" seo="true" ref="index"/>
-    <file name="232.png" crc="424765170" seo="true" ref="index"/>
-    <file name="tt4.png" crc="3936248279" seo="true" ref="index"/>
     <file name="u2362-57.png" crc="4044162475" ref="index"/>
     <file name="u2362-57-r.png" crc="3888691085" ref="index"/>
     <file name="u2362-57-m.png" crc="356835240" ref="index"/>
@@ -62,37 +58,37 @@
     <file name="3-u2555-fr.jpg" crc="234227703" ref="index"/>
     <file name="4-u2562-fr.jpg" crc="259167454" ref="index"/>
     <file name="5-u2560-fr.jpg" crc="349461968" ref="index"/>
-    <file name="1.jpg" crc="4207123801" ref="index"/>
-    <file name="2.jpg" crc="274812767" ref="index"/>
-    <file name="3.jpg" crc="155371262" ref="index"/>
-    <file name="4.jpg" crc="318526111" ref="index"/>
-    <file name="5.jpg" crc="4281596512" ref="index"/>
+    <file name="1.jpg" crc="3769995426" ref="index"/>
+    <file name="2.jpg" crc="351959697" ref="index"/>
+    <file name="3.jpg" crc="486240250" ref="index"/>
+    <file name="4.jpg" crc="389367450" ref="index"/>
+    <file name="5.jpg" crc="453165203" ref="index"/>
     <file name="6-u2581-fr.jpg" crc="310383120" ref="index"/>
-    <file name="6.jpg" crc="4241373439" ref="index"/>
+    <file name="6.jpg" crc="274698065" ref="index"/>
     <file name="1-u2624-fr.jpg" crc="3973183416" ref="index"/>
     <file name="2-u2627-fr.jpg" crc="3796712744" ref="index"/>
     <file name="3-u2625-fr.jpg" crc="46475263" ref="index"/>
     <file name="4-u2629-fr.jpg" crc="3951664211" ref="index"/>
-    <file name="52.jpg" crc="57171916" ref="index"/>
-    <file name="12.jpg" crc="4002023593" ref="index"/>
-    <file name="22.jpg" crc="3866794991" ref="index"/>
-    <file name="32.jpg" crc="4135276116" ref="index"/>
-    <file name="42.jpg" crc="4194843446" ref="index"/>
-    <file name="62.jpg" crc="3835616667" ref="index"/>
+    <file name="52.jpg" crc="450287185" ref="index"/>
+    <file name="12.jpg" crc="4217310999" ref="index"/>
+    <file name="22.jpg" crc="4113686048" ref="index"/>
+    <file name="32.jpg" crc="4245917262" ref="index"/>
+    <file name="42.jpg" crc="135234554" ref="index"/>
+    <file name="62.jpg" crc="4231486170" ref="index"/>
     <file name="6-u2672-fr.jpg" crc="3828687814" ref="index"/>
-    <file name="63.jpg" crc="3939009415" ref="index"/>
+    <file name="63.jpg" crc="4241373439" ref="index"/>
     <file name="1-u2465-fr.jpg" crc="4141895380" ref="index"/>
     <file name="2-u2461-fr.jpg" crc="4127355460" ref="index"/>
     <file name="3-u2459-fr.jpg" crc="508588810" ref="index"/>
     <file name="4-u2463-fr.jpg" crc="233834030" ref="index"/>
     <file name="5-u2457-fr.jpg" crc="491980146" ref="index"/>
-    <file name="13.jpg" crc="9576612" ref="index"/>
-    <file name="23.jpg" crc="4088976233" ref="index"/>
-    <file name="33.jpg" crc="3805856527" ref="index"/>
-    <file name="43.jpg" crc="4275245824" ref="index"/>
-    <file name="53.jpg" crc="271668550" ref="index"/>
+    <file name="13.jpg" crc="4207123801" ref="index"/>
+    <file name="23.jpg" crc="274812767" ref="index"/>
+    <file name="33.jpg" crc="155371262" ref="index"/>
+    <file name="43.jpg" crc="318526111" ref="index"/>
+    <file name="53.jpg" crc="4281596512" ref="index"/>
     <file name="6-u2479-fr.jpg" crc="298413056" ref="index"/>
-    <file name="64.jpg" crc="328268698" ref="index"/>
+    <file name="64.jpg" crc="3835616667" ref="index"/>
     <file name="seplil.png" crc="4077255009" seo="true" ref="index"/>
     <file name="ot1-ieu1645-fr.png" crc="3772351355" ref="index"/>
     <file name="ot1.jpg" crc="470995963" ref="index"/>
@@ -155,6 +151,30 @@
     <file name="команда_6_александр.jpg" crc="3781232141" ref="index"/>
     <file name="email19 (1).png" crc="162441301" seo="true" ref="index"/>
     <file name="pin56.png" crc="414534513" seo="true" ref="index"/>
+    <file name="1-u5839-fr.jpg" crc="444344674" ref="index"/>
+    <file name="2-u5897-fr.jpg" crc="3936848424" ref="index"/>
+    <file name="3-u5903-fr.jpg" crc="4043540913" ref="index"/>
+    <file name="4-u5909-fr.jpg" crc="240864584" ref="index"/>
+    <file name="5-u5915-fr.jpg" crc="3996354554" ref="index"/>
+    <file name="6-u5921-fr.jpg" crc="4203908511" ref="index"/>
+    <file name="1-u5983-fr.jpg" crc="440488152" ref="index"/>
+    <file name="2-u6041-fr.jpg" crc="3867389385" ref="index"/>
+    <file name="3-u6047-fr.jpg" crc="4207464526" ref="index"/>
+    <file name="4-u6053-fr.jpg" crc="4070701073" ref="index"/>
+    <file name="5-u6059-fr.jpg" crc="23797394" ref="index"/>
+    <file name="6-u6065-fr.jpg" crc="4293832845" ref="index"/>
+    <file name="54.jpg" crc="57171916" ref="index"/>
+    <file name="14.jpg" crc="4002023593" ref="index"/>
+    <file name="24.jpg" crc="3866794991" ref="index"/>
+    <file name="34.jpg" crc="4135276116" ref="index"/>
+    <file name="44.jpg" crc="4194843446" ref="index"/>
+    <file name="65.jpg" crc="3939009415" ref="index"/>
+    <file name="15.jpg" crc="9576612" ref="index"/>
+    <file name="25.jpg" crc="4088976233" ref="index"/>
+    <file name="35.jpg" crc="3805856527" ref="index"/>
+    <file name="45.jpg" crc="4275245824" ref="index"/>
+    <file name="55.jpg" crc="271668550" ref="index"/>
+    <file name="66.jpg" crc="328268698" ref="index"/>
   </folder>
-  <file name="index.html" crc="508842218" seo="true" mt="1456990627224" redirect="true"/>
+  <file name="index.html" crc="392761757" seo="true" mt="1457000049277" redirect="true"/>
 </manifest>
