@@ -1,0 +1,57 @@
+<manifest alg="2" build="2015.1.0.342" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="likedengi74.ru" resolutions="1x" timestamp="1457371827093">
+  <folder name="css">
+    <file name="site_global.css" crc="131700929"/>
+    <file name="confidence.css" crc="220203166" ref="confidence"/>
+    <file name="index.css" crc="363264089" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="409338010" ref="index:confidence"/>
+    <file name="museutils.js" crc="4190794036" ref="index:confidence"/>
+    <file name="whatinput.js" crc="84559013" ref="index:confidence"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3792042506" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="webpro.js" crc="488283310" ref="index"/>
+    <file name="form_check.php" crc="430210585" ref="index"/>
+    <file name="form_throttle.php" crc="282343929" ref="index"/>
+    <file name="form_process.php" crc="339897355" ref="index"/>
+    <file name="form-u139.php" crc="294935370" ref="index"/>
+    <file name="jquery.watch.js" crc="349565855" ref="index:confidence"/>
+    <file name="form-u985.php" crc="483912830" ref="index"/>
+    <file name="musewpslideshow.js" crc="248860441" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="3898476799" ref="index"/>
+    <file name="touchswipe.js" crc="4191887251" ref="index"/>
+    <file name="form-u541.php" crc="4027315343" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="light.png" crc="38736456" ref="index"/>
+    <file name="s5_logo.png" crc="3894580430" seo="true" ref="index"/>
+    <file name="tel57.png" crc="184991539" ref="index"/>
+    <file name="u242-grad.png" crc="4106145131" ref="index"/>
+    <file name="u141-17.png" crc="3890267379" ref="index"/>
+    <file name="u141-17-r.png" crc="3936100759" ref="index"/>
+    <file name="u141-17-m.png" crc="3936100759" ref="index"/>
+    <file name="u141-17-fs.png" crc="3945312506" ref="index"/>
+    <file name="money_gr.png" crc="4197274285" seo="true" ref="index"/>
+    <file name="car7.png" crc="82276653" seo="true" ref="index"/>
+    <file name="u136-grad.png" crc="4039852040" ref="index"/>
+    <file name="u996-17.png" crc="3890267379" ref="index"/>
+    <file name="u996-17-r.png" crc="3936100759" ref="index"/>
+    <file name="u996-17-m.png" crc="3936100759" ref="index"/>
+    <file name="u996-17-fs.png" crc="3945312506" ref="index"/>
+    <file name="thumbup27.png" crc="4036124065" seo="true" ref="index"/>
+    <file name="passport.png" crc="3819676959" seo="true" ref="index"/>
+    <file name="pts.png" crc="3909139367" seo="true" ref="index"/>
+    <file name="sts.png" crc="393665690" seo="true" ref="index"/>
+    <file name="33.png" crc="506018026" seo="true" ref="index"/>
+    <file name="62.png" crc="4164428680" seo="true" ref="index"/>
+    <file name="calendar80.png" crc="4228112250" seo="true" ref="index"/>
+    <file name="icons8-car-80.png" crc="14069016" seo="true" ref="index"/>
+    <file name="u566-grad.png" crc="388313199" ref="index"/>
+    <file name="u543-17.png" crc="3890267379" ref="index"/>
+    <file name="u543-17-r.png" crc="3936100759" ref="index"/>
+    <file name="u543-17-m.png" crc="3936100759" ref="index"/>
+    <file name="u543-17-fs.png" crc="3945312506" ref="index"/>
+  </folder>
+  <file name="index.html" crc="3952550971" seo="true" mt="1457330860376" redirect="true"/>
+  <file name="confidence.html" crc="356788128" seo="true" mt="1457324966309" redirect="true"/>
+</manifest>
