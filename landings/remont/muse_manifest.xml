@@ -1,8 +1,8 @@
-<manifest alg="2" build="2015.1.1.343" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="vzmah.ru" resolutions="1x" timestamp="1459483768515">
+<manifest alg="2" build="2015.1.1.343" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="vzmah.ru" resolutions="1x" timestamp="1459484574857">
   <folder name="css">
     <file name="site_global.css" crc="131700929"/>
     <file name="master_______-a.css" crc="3859363202" ref="index"/>
-    <file name="index.css" crc="509780739" ref="index"/>
+    <file name="index.css" crc="441753315" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="484278746" ref="index"/>
@@ -160,20 +160,8 @@
     <file name="u2862.png" crc="189229637" ref="index"/>
     <file name="bgv.jpg" crc="196951547" ref="index"/>
     <file name="compl.png" crc="4073956499" seo="true" ref="index"/>
-    <file name="команда_1_василий-u4784-fr.jpg" crc="3899468447" ref="index"/>
-    <file name="команда_2_владимир-u4893-fr.jpg" crc="4141318599" ref="index"/>
-    <file name="команда_3_дмитрий-u4899-fr.jpg" crc="13038088" ref="index"/>
-    <file name="команда_4_алексей-u4905-fr.jpg" crc="4138359177" ref="index"/>
-    <file name="команда_5_марина-u4911-fr.jpg" crc="182707295" ref="index"/>
-    <file name="команда_6_александр-u4917-fr.jpg" crc="4019919138" ref="index"/>
-    <file name="команда_1_василий.jpg" crc="261960222" ref="index"/>
-    <file name="команда_2_владимир.jpg" crc="3827259509" ref="index"/>
-    <file name="команда_3_дмитрий.jpg" crc="57230160" ref="index"/>
-    <file name="команда_4_алексей.jpg" crc="504364492" ref="index"/>
-    <file name="команда_5_марина.jpg" crc="105119258" ref="index"/>
-    <file name="команда_6_александр.jpg" crc="3781232141" ref="index"/>
     <file name="email19 (1).png" crc="162441301" seo="true" ref="index"/>
     <file name="pin56.png" crc="414534513" seo="true" ref="index"/>
   </folder>
-  <file name="index.html" crc="378391101" seo="true" mt="1459483691703" redirect="true"/>
+  <file name="index.html" crc="117388767" seo="true" mt="1459484483638" redirect="true"/>
 </manifest>
