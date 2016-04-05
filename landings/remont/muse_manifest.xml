@@ -1,8 +1,8 @@
-<manifest alg="2" build="2015.1.1.343" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="vzmah-stroy.ru" resolutions="1x" timestamp="1459485499586">
+<manifest alg="2" build="2015.1.1.343" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="vzmah-stroy.ru" resolutions="1x" timestamp="1459865231350">
   <folder name="css">
     <file name="site_global.css" crc="131700929"/>
     <file name="master_______-a.css" crc="3859363202" ref="index"/>
-    <file name="index.css" crc="342614481" ref="index"/>
+    <file name="index.css" crc="3849846058" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="484278746" ref="index"/>
@@ -28,7 +28,7 @@
   <folder name="images">
     <file name="favicon.ico" crc="276325137" ref="index"/>
     <file name="auricular6.png" crc="3969686365" seo="true" ref="index"/>
-    <file name="bvglight-1.jpg" crc="4072321775" ref="index"/>
+    <file name="bvglight-1.jpg" crc="3933951128" ref="index"/>
     <file name="circle.png" crc="4075224770" seo="true" ref="index"/>
     <file name="logo-e1441624735620.png" crc="44841147" seo="true" ref="index"/>
     <file name="lenta.png" crc="3852947714" seo="true" ref="index"/>
@@ -41,20 +41,13 @@
     <file name="u2068-57-r.png" crc="240812451" ref="index"/>
     <file name="u2068-57-m.png" crc="3887311660" ref="index"/>
     <file name="u2068-57-fs.png" crc="93135827" ref="index"/>
-    <file name="podezd1.jpg" crc="3919988916" seo="true" ref="index"/>
     <file name="verification24.png" crc="4169395158" seo="true" ref="index"/>
-    <file name="1-u5839-fr.jpg" crc="444344674" ref="index"/>
-    <file name="2-u5897-fr.jpg" crc="3936848424" ref="index"/>
-    <file name="3-u5903-fr.jpg" crc="4043540913" ref="index"/>
-    <file name="4-u5909-fr.jpg" crc="240864584" ref="index"/>
-    <file name="5-u5915-fr.jpg" crc="3996354554" ref="index"/>
-    <file name="6-u5921-fr.jpg" crc="4203908511" ref="index"/>
-    <file name="1.jpg" crc="3769995426" ref="index"/>
-    <file name="2.jpg" crc="351959697" ref="index"/>
-    <file name="3.jpg" crc="486240250" ref="index"/>
-    <file name="4.jpg" crc="389367450" ref="index"/>
-    <file name="5.jpg" crc="453165203" ref="index"/>
-    <file name="6.jpg" crc="274698065" ref="index"/>
+    <file name="1.jpg" crc="375340436" ref="index"/>
+    <file name="2.jpg" crc="4201047382" ref="index"/>
+    <file name="3.jpg" crc="3869780979" ref="index"/>
+    <file name="4.jpg" crc="3815062369" ref="index"/>
+    <file name="5.jpg" crc="135815649" ref="index"/>
+    <file name="6.jpg" crc="3912430692" ref="index"/>
     <file name="ar_left.png" crc="143268363" ref="index"/>
     <file name="ar_right.png" crc="130713377" ref="index"/>
     <file name="separ.png" crc="4208023732" seo="true" ref="index"/>
@@ -158,10 +151,26 @@
     <file name="u1725-57-fs.png" crc="4076902197" ref="index"/>
     <file name="u2859.png" crc="189229637" ref="index"/>
     <file name="u2862.png" crc="189229637" ref="index"/>
-    <file name="bgv.jpg" crc="196951547" ref="index"/>
     <file name="compl.png" crc="4073956499" seo="true" ref="index"/>
     <file name="email19 (1).png" crc="162441301" seo="true" ref="index"/>
     <file name="pin56.png" crc="414534513" seo="true" ref="index"/>
+    <file name="t9mn1qau3as8ockw4oks.jpg" crc="4106985792" ref="index"/>
+    <file name="yws4opt_cpe.jpg" crc="400727406" ref="index"/>
+    <file name="bckjtmqwnfw-ieu6612-fr.png" crc="3843232914" ref="index"/>
+    <file name="bckjtmqwnfw.jpg" crc="3887262974" ref="index"/>
+    <file name="eusbqa_mvzw-ieu6615-fr.png" crc="468093660" ref="index"/>
+    <file name="eusbqa_mvzw.jpg" crc="4049144568" ref="index"/>
+    <file name="mv-jf5s5dqi-ieu6681-fr.png" crc="396595416" ref="index"/>
+    <file name="mv-jf5s5dqi.jpg" crc="3830462348" ref="index"/>
+    <file name="s3wrqd_p68q-ieu6621-fr.png" crc="3844063304" ref="index"/>
+    <file name="s3wrqd_p68q.jpg" crc="243792353" ref="index"/>
+    <file name="b5zdovbzx9c.jpg" crc="4275340454" ref="index"/>
+    <file name="1_tb.jpg" crc="3811190244" ref="index"/>
+    <file name="2_tb.jpg" crc="3928379824" ref="index"/>
+    <file name="3_tb.jpg" crc="4231613705" ref="index"/>
+    <file name="4_tb.jpg" crc="290096286" ref="index"/>
+    <file name="5_tb.jpg" crc="3801799059" ref="index"/>
+    <file name="6_tb.jpg" crc="4216513569" ref="index"/>
   </folder>
-  <file name="index.html" crc="208321916" seo="true" mt="1459485482142" redirect="true"/>
+  <file name="index.html" crc="3931315921" seo="true" mt="1459865212232" redirect="true"/>
 </manifest>
