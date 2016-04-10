@@ -25,8 +25,8 @@ $form = array(
 		'unknown_method' => 'Неизвестный метод запроса сервера'
 	),
 	'email' => array(
-		'from' => 'prestigrem@gmail.com',
-		'to' => 'prestigrem@gmail.com'
+		'from' => 'vzmahstroy@gmail.com',
+		'to' => 'vzmahstroy@gmail.com'
 	),
 	'fields' => array(
 		'custom_U2374' => array(
