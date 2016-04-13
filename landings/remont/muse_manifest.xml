@@ -1,8 +1,8 @@
-<manifest alg="2" build="2015.1.1.343" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="vzmah-stroy.ru" resolutions="1x" timestamp="1460286772251">
+<manifest alg="2" build="2015.1.1.343" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="vzmah-stroy.ru" resolutions="1x" timestamp="1460528243252">
   <folder name="css">
     <file name="site_global.css" crc="131700929"/>
     <file name="master_______-a.css" crc="3859363202" ref="index"/>
-    <file name="index.css" crc="4163065833" ref="index"/>
+    <file name="index.css" crc="3969032588" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="484278746" ref="index"/>
@@ -30,7 +30,6 @@
     <file name="auricular6.png" crc="3969686365" seo="true" ref="index"/>
     <file name="bvglight-1.jpg" crc="3933951128" ref="index"/>
     <file name="circle.png" crc="4075224770" seo="true" ref="index"/>
-    <file name="logo-e1441624735620.png" crc="44841147" seo="true" ref="index"/>
     <file name="lenta.png" crc="3852947714" seo="true" ref="index"/>
     <file name="u2362-57.png" crc="4044162475" ref="index"/>
     <file name="u2362-57-r.png" crc="3888691085" ref="index"/>
@@ -52,8 +51,6 @@
     <file name="ar_right.png" crc="130713377" ref="index"/>
     <file name="separ.png" crc="4208023732" seo="true" ref="index"/>
     <file name="verification242.png" crc="4169395158" seo="true" ref="index"/>
-    <file name="geometry91.png" crc="81903572" seo="true" ref="index"/>
-    <file name="clock125.png" crc="3928442275" seo="true" ref="index"/>
     <file name="ruble.png" crc="3778942740" seo="true" ref="index"/>
     <file name="12.jpg" crc="57648434" ref="index"/>
     <file name="22.jpg" crc="68448361" ref="index"/>
@@ -170,6 +167,11 @@
     <file name="yxkq-uokbwu.jpg" crc="256973268" ref="index"/>
     <file name="urm9oxth5ao.jpg" crc="478787171" ref="index"/>
     <file name="njuhbtirud8.jpg" crc="26801719" ref="index"/>
+    <file name="logo-e1441624735620-u6408.png" crc="183499855" ref="index"/>
+    <file name="6_tn.jpg" crc="171934992" ref="index"/>
+    <file name="7_tn.jpg" crc="155329329" ref="index"/>
+    <file name="6_sjgvtxpfe84.jpg" crc="3998872711" ref="index"/>
+    <file name="7_ml83xvp2pk4.jpg" crc="4098314721" ref="index"/>
   </folder>
-  <file name="index.html" crc="295434486" seo="true" mt="1460286754186" redirect="true"/>
+  <file name="index.html" crc="4081021166" seo="true" mt="1460528163607" redirect="true"/>
 </manifest>
