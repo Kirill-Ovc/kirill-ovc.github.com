@@ -1,8 +1,8 @@
-<manifest alg="2" build="2015.1.1.343" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="vzmah-stroy.ru" resolutions="1x" timestamp="1460531728752">
+<manifest alg="2" build="2015.1.1.343" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="vzmah-stroy.ru" resolutions="1x" timestamp="1460548768675">
   <folder name="css">
     <file name="site_global.css" crc="131700929"/>
     <file name="master_______-a.css" crc="3859363202" ref="index"/>
-    <file name="index.css" crc="440669165" ref="index"/>
+    <file name="index.css" crc="3762867437" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="484278746" ref="index"/>
@@ -35,7 +35,6 @@
     <file name="u2362-57-r.png" crc="3888691085" ref="index"/>
     <file name="u2362-57-m.png" crc="356835240" ref="index"/>
     <file name="u2362-57-fs.png" crc="4039952051" ref="index"/>
-    <file name="u2041-grad.png" crc="4242472449" ref="index"/>
     <file name="u2068-57.png" crc="373687398" ref="index"/>
     <file name="u2068-57-r.png" crc="240812451" ref="index"/>
     <file name="u2068-57-m.png" crc="3887311660" ref="index"/>
@@ -171,6 +170,7 @@
     <file name="7_tn.jpg" crc="155329329" ref="index"/>
     <file name="6_sjgvtxpfe84.jpg" crc="3998872711" ref="index"/>
     <file name="7_ml83xvp2pk4.jpg" crc="4098314721" ref="index"/>
+    <file name="u8749-grad.png" crc="4242472449" ref="index"/>
   </folder>
-  <file name="index.html" crc="3900585314" seo="true" mt="1460531679629" redirect="true"/>
+  <file name="index.html" crc="3787215177" seo="true" mt="1460548180240" redirect="true"/>
 </manifest>
