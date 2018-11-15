@@ -1,15 +1,15 @@
 {
-  "main.css": "/ReactRouterTestApp/static/css/main.ceef149b.chunk.css",
-  "main.js": "/ReactRouterTestApp/static/js/main.3eeb6db3.chunk.js",
-  "main.js.map": "/ReactRouterTestApp/static/js/main.3eeb6db3.chunk.js.map",
-  "static/css/1.25b20dd9.chunk.css": "/ReactRouterTestApp/static/css/1.25b20dd9.chunk.css",
-  "static/js/1.a9fae789.chunk.js": "/ReactRouterTestApp/static/js/1.a9fae789.chunk.js",
-  "static/js/1.a9fae789.chunk.js.map": "/ReactRouterTestApp/static/js/1.a9fae789.chunk.js.map",
-  "runtime~main.js": "/ReactRouterTestApp/static/js/runtime~main.b90023e5.js",
-  "runtime~main.js.map": "/ReactRouterTestApp/static/js/runtime~main.b90023e5.js.map",
-  "static/css/1.25b20dd9.chunk.css.map": "/ReactRouterTestApp/static/css/1.25b20dd9.chunk.css.map",
-  "static/css/main.ceef149b.chunk.css.map": "/ReactRouterTestApp/static/css/main.ceef149b.chunk.css.map",
-  "index.html": "/ReactRouterTestApp/index.html",
-  "precache-manifest.ef826ac1e32fa3d13954090c3411a872.js": "/ReactRouterTestApp/precache-manifest.ef826ac1e32fa3d13954090c3411a872.js",
-  "service-worker.js": "/ReactRouterTestApp/service-worker.js"
+  "main.css": "./static/css/main.ceef149b.chunk.css",
+  "main.js": "./static/js/main.ff8c89ab.chunk.js",
+  "main.js.map": "./static/js/main.ff8c89ab.chunk.js.map",
+  "static/css/1.25b20dd9.chunk.css": "./static/css/1.25b20dd9.chunk.css",
+  "static/js/1.a9fae789.chunk.js": "./static/js/1.a9fae789.chunk.js",
+  "static/js/1.a9fae789.chunk.js.map": "./static/js/1.a9fae789.chunk.js.map",
+  "runtime~main.js": "./static/js/runtime~main.4a686d48.js",
+  "runtime~main.js.map": "./static/js/runtime~main.4a686d48.js.map",
+  "static/css/main.ceef149b.chunk.css.map": "./static/css/main.ceef149b.chunk.css.map",
+  "static/css/1.25b20dd9.chunk.css.map": "./static/css/1.25b20dd9.chunk.css.map",
+  "index.html": "./index.html",
+  "precache-manifest.a74e5906694fe15ea8aa5183a02aabc9.js": "./precache-manifest.a74e5906694fe15ea8aa5183a02aabc9.js",
+  "service-worker.js": "./service-worker.js"
 }
